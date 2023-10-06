@@ -1,0 +1,17 @@
+{
+    "departureCity": "New York",
+    "departureAirport": "JFK",
+    "destinationAirport": "BER",
+    "departureDateInt": "3010",
+    "passengersAdults": 2,
+    "passengersChilden": 0,
+    "passengersInfants": 0,
+    "returnDate": "",
+    "_comment": "empty for economy, w for premium",
+    "class": "",
+    "departureAirportFullName": "John F. Kennedy International Airport",
+    "destinationAirportFullName": "Berlin",
+    "fullDepartureDate": "Mon, October 30",
+    "classEmpty": "economy",
+    "classW": "premium"
+}
